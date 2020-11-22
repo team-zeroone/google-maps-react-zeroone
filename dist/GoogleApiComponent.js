@@ -222,7 +222,7 @@
 
             return _react2.default.createElement(
               'div',
-              {style: {height: '90%', width:'100%'}},
+              {style: {height: '100%', width:'100%'}},
               _react2.default.createElement(WrappedComponent, props),
               _react2.default.createElement('div', { ref: this.mapRef })
             );
